@@ -1,6 +1,6 @@
 {
-  "name": "Hadwin-cli",
-  "version": "1.0.0",
+  "name": "hadwin-cli",
+  "version": "2.0.0",
   "description": "开发一套自己的脚手架",
   "main": "index.js",
   "bin": {
